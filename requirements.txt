@@ -1,0 +1,13 @@
+streamlit
+pandas
+plotly
+numpy
+scipy
+openpyxl
+pillow
+scikit-learn
+statsmodels
+matplotlib
+seaborn
+PackageChecker
+pandas_profiling
