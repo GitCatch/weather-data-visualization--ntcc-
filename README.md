@@ -14,7 +14,7 @@ The visualization covers various weather metrics such as temperature, precipitat
 After installation, as the project is entirely web-based. Simply run the following command to access the weather data visualization.
 streamlit run home.py
 
-![Weather Data Visualization](http://localhost:8501/)
+![Alt text](<Screenshot -1.png>)
 
 
 ## Features
