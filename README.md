@@ -1,6 +1,5 @@
 # Weather Data Visualization
 
-![Weather Data Visualization](earth-wind-mapss.webp)
 
 This project aims to visualize weather data in an interactive and informative way. The visualization presents various weather metrics over a specific period, allowing users to gain insights into weather patterns, trends, and fluctuations.
 
@@ -15,6 +14,7 @@ The visualization covers various weather metrics such as temperature, precipitat
 After installation, as the project is entirely web-based. Simply run the following command to access the weather data visualization.
 streamlit run home.py
 
+![Weather Data Visualization](http://localhost:8501/)
 
 
 ## Features
