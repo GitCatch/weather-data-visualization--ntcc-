@@ -1,6 +1,6 @@
 # Weather Data Visualization
 
-![Weather Data Visualization](file:///D:/downloads/earth-wind-mapss.webp)
+![Weather Data Visualization](D:/downloads/earth-wind-mapss.webp)
 
 This project aims to visualize weather data in an interactive and informative way. The visualization presents various weather metrics over a specific period, allowing users to gain insights into weather patterns, trends, and fluctuations.
 
