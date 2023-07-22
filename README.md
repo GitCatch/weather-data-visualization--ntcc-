@@ -14,8 +14,9 @@ The visualization covers various weather metrics such as temperature, precipitat
 After installation, as the project is entirely web-based. Simply run the following command to access the weather data visualization.
 streamlit run home.py
 
-![Alt text](<Screenshot -1.png>)
-
+![NTCC](https://github.com/GitCatch/weather-data-visualization--ntcc-/assets/135343584/fc9ad78a-ee70-40ef-a26d-90507835fc75)
+![Nt1](https://github.com/GitCatch/weather-data-visualization--ntcc-/assets/135343584/d8dbdf67-fc68-40c5-b414-fc811a5b9833)
+![nt2](https://github.com/GitCatch/weather-data-visualization--ntcc-/assets/135343584/7092795a-c110-4b4a-ae89-4db3d704738c)
 
 ## Features
 
